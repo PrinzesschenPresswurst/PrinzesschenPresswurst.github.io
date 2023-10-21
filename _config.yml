@@ -1,9 +1,6 @@
-﻿# SITE CONFIGURATION
-baseurl: ""
-url: "https://prinzesschenpresswurst.github.io"
-
-# SITE CONFIGURATION
-theme: /_sass/my-theme.scss
-title: Christin's homepage
-description: The home of dog games
+title: Minimal theme
 logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
