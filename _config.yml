@@ -3,7 +3,8 @@ baseurl: ""
 url: "https://prinzesschenpresswurst.github.io"
 
 # SITE CONFIGURATION
-theme: my-theme
+theme: /_sass/my-theme
 title: Christin's homepage
 description: The home of dog games
 
+logo: /assets/img/logo.png
