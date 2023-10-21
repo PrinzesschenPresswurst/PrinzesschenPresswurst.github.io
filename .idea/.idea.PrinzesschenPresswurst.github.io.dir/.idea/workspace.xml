@@ -36,6 +36,9 @@
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ],
     "rider.external.source.directories": [
       "C:\\Users\\tinim\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
       "C:\\Users\\tinim\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
@@ -51,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697879795035</updated>
-      <workItem from="1697879797846" duration="727000" />
+      <workItem from="1697879797846" duration="1039000" />
     </task>
     <servers />
   </component>

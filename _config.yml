@@ -1,5 +1,8 @@
-﻿url: https://prinzesschenpresswurst.github.io/
+﻿# SITE CONFIGURATION
+baseurl: ""
+url: "https://prinzesschenpresswurst.github.io"
 
+# SITE CONFIGURATION
 theme: minima
 title: Christin's homepage
 description: Bookmark this to keep an eye on my project updates!
