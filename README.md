@@ -8,7 +8,4 @@ Maybe some updates on old dog games
 Dog McDogface is on a simple mission: destruction.
 
 ### Small image
-![Dog Games logo](https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/logo.png)
-
-### Small image
-<img width=”250" height=”400" src=”https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/logo.png" />
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/logo.png" width="120">
