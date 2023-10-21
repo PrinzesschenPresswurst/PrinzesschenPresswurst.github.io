@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://prinzesschenpresswurst.github.io"
 
 # SITE CONFIGURATION
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Christin's homepage
 description: The home of dog games
 
