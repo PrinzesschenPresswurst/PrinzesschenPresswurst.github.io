@@ -3,6 +3,7 @@ baseurl: ""
 url: "https://prinzesschenpresswurst.github.io"
 
 # SITE CONFIGURATION
-theme: minima
+theme: jekyll-theme-minimal
 title: Christin's homepage
 description: Bookmark this to keep an eye on my project updates!
+
