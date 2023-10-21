@@ -1,6 +1,5 @@
-baseurl: ""
-url: "https://prinzesschenpresswurst.github.io/"
+url: https://prinzesschenpresswurst.github.io/
 
 theme: jekyll-theme-minimal
-title: Octocat's homepage
+title: Christin's homepage
 description: Bookmark this to keep an eye on my project updates!
