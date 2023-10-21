@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://prinzesschenpresswurst.github.io"
 
 # SITE CONFIGURATION
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 title: Christin's homepage
 description: Bookmark this to keep an eye on my project updates!
 
