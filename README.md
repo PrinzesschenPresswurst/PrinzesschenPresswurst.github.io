@@ -1,4 +1,8 @@
-﻿## Coming Soon 
+﻿---
+layout: default
+---
+
+## Coming Soon 
 
 On this page soon all dog games can be seen
 Maybe some updates on old dog games
