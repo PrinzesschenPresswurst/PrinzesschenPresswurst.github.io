@@ -59,6 +59,10 @@ Stay hydrated.
 
 [Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/WebGL_DogGame_1/)
 
+
+![DG1 Preview](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+
 ### Web Page Example
 
 ```
