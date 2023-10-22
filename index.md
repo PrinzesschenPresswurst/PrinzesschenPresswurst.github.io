@@ -49,18 +49,19 @@ A good Lab(yrinth)
 Coming Soon: Dog McDogFace meets his worst enemies. For some, this is the weakest installment of the series. For McDogFace this is the fight for justice.
 
 ### Dog Game 1
+
 ```
-Dog Simulator
+A short dog simulator
 ```
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
 
 This is where it all started. Dog McDogFace is on a mission: destruction. 
 But this does not mean he has no time to help his friends. 
 Stay hydrated, collect all sticks and most importantly: pee everywhere.
-
 [Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/WebGL_DogGame_1/)
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="250">
 
-**COMING SOON:**
+###### COMING SOON
 Dog Game 1 - The Remaster: with better graphics, sound and interface!
 
 ### (Web Page Example)
