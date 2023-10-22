@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to example page](./example-page.html).
+[Link to another page](./another-page.html).
 
 [Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/WebGL_DogGame_1/)
 
