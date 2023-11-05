@@ -11,12 +11,11 @@ layout: default
 * Experienced part of leadership teams 
 * Unbreakable love for video games and my job
 
-
 ## Track Record
 ```
 ```
 ## Think Tank Phase
-2023 Supercell
+2023 - today Supercell
 
 ###### GD Team Size
 * Small teams
@@ -93,7 +92,6 @@ layout: default
 * Initial pitch / conception of the game
 * Responsible for the design of all features throughout development, e.g. tutorial, quest system, world map expeditions, events, cooperative multiplayer dive, ...
 
-
 ```
 ```
 ## Think Tank Phase
@@ -108,6 +106,7 @@ layout: default
 ###### Responsibilities
 * Creation of many pitches
 * Prototyping and user testing of three 
+
 ```
 ```
 ## Gates of Epica - F2P Action RPG - Mobile
@@ -166,6 +165,7 @@ layout: default
 ###### Responsibilities
 * Researching F2P Mobile games
 * Creation of F2P pitches
+
 ```
 ```
 ## Your Shape Wii U - Sports - Wii U
