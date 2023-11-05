@@ -170,8 +170,8 @@ layout: default
 ## The Settlers My City - F2P City Builder - Facebook
 2010 - 2011 Ubisoft Bluebyte
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_logo.jpg" height="220">
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_1.jpg" height="220">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_logo.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_1.jpg" height="150">
 
 [Check out a video here.](https://www.youtube.com/watch?v=zaWDAJouIvg)
 
@@ -190,8 +190,8 @@ layout: default
 ## The Settlers 7 - Strategy - PC
 2009 - 2010 Ubisoft Bluebyte
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/settlers7_box.jpg" height="220">
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/settlers7_game.jpg" height="220">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/settlers7_box.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/settlers7_game.jpg" height="150">
 
 [Check out a video here.](https://www.youtube.com/watch?v=0DYCYby9-zA)
 
