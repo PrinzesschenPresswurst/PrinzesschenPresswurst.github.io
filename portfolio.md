@@ -2,16 +2,15 @@
 layout: default
 ---
 
-## Experience
-
+# Track Record
+* Making games since 2009
 * Creating games from scratch and getting them through the whole development cycle
-* System design / Feature design 
+* System design / Feature design
 * Player Onboarding / Player Experience / UX / User Testing
 * F2P business models, player retention, monetization
-* Experienced part of leadership teams 
+* Experienced part of leadership teams
 * Unbreakable love for video games and my job
 
-## Track Record
 ```
 ```
 ## Think Tank Phase
@@ -21,7 +20,7 @@ layout: default
 * Small teams
 
 ###### Phases
-* Initial pitching 
+* Prototyping 
 
 ###### Responsibilities
 * Finding a great team 
@@ -59,7 +58,6 @@ layout: default
 
 [Check out a community video with me here.](https:/https://www.youtube.com/watch?v=z1i3XfYWcjM)
 
-
 ###### GD Team Size
 * 2 Game Designers
 * Plan was to complement and help the Lead Designer for launch 
@@ -80,6 +78,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/00001.jpg" height="150">
 
 [Check it out on Google Play here.](https://play.google.com/store/apps/details?id=com.innogames.tropicalisland&hl=en&gl=US)
+
 ###### GD Team Size
 * 2 Game Designers
 * Splitting up the workload into design on my side and balancing on my coworker's side
@@ -96,6 +95,7 @@ layout: default
 ```
 ## Think Tank Phase
 2017 InnoGames
+
 ###### GD Team Size
 * 2 Game Designers
 * Each with their own game pitches
