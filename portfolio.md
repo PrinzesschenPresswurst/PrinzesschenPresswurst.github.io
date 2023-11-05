@@ -14,9 +14,9 @@ layout: default
 
 ## Track Record
 ```
-2023 Supercell 
 ```
 ## Think Tank Phase
+2023 Supercell
 ###### GD Team Size
 * Small teams
 ###### Phases
@@ -26,10 +26,14 @@ layout: default
 * Pitching and Prototyping of new game 
 
 ```
-2023 Supercell 
 ```
 ## Mo.Co - MMORPG - Mobile
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
+2023 Supercell
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/moco_blog-thumb_1500x1130_yellow-chase.png" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/moco.png" height="150">
+
+[Check out a video here.](https://www.youtube.com/watch?v=QEvg3qoOSwQ)
 
 ###### GD Team Size
 * 5 Game Designers
@@ -41,12 +45,19 @@ layout: default
 * UX and production for emotes and icons 
 * Playtesting
 
-[Check out a video here.](https://www.youtube.com/watch?v=QEvg3qoOSwQ)
+
 
 ```
-2022 Supercell 
 ```
 ## Everdale - Resource Management - Mobile
+2022 Supercell
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/everdale.png" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/everdale.jpg" height="150">
+
+[Check out a community video with me here.](https:/https://www.youtube.com/watch?v=z1i3XfYWcjM)
+
+
 ###### GD Team Size
 * 2 Game Designers
 * Plan was to complement and help the Lead Designer for launch 
@@ -55,12 +66,11 @@ layout: default
 ###### Responsibilities
 * Helped out with the last 2 updates before the game got killed
 * Live Ops Event Design
-* [Check out a community video with me here.](https:/https://www.youtube.com/watch?v=z1i3XfYWcjM)
 
 ```
-2018 - 2022 InnoGames 
 ```
 ## Lost Survivors - F2P Resource Management - Mobile
+2018 - 2022 InnoGames
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/csm_800x729_4_4300bf1a5c.jpg" height="150">
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/00001.jpg" height="150">
@@ -78,9 +88,9 @@ layout: default
 
 
 ```
-2017 InnoGames 
 ```
 ## Think Tank Phase
+2017 InnoGames
 ###### GD Team Size
 * 2 Game Designers
 * Each with their own game pitches
@@ -90,9 +100,9 @@ layout: default
 * Creation of many pitches
 * Prototyping and user testing of three 
 ```
-2014 - 2016 InnoGames 
 ```
 ## Gates of Epica - F2P Action RPG - Mobile
+2014 - 2016 InnoGames
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Gates_FrontPic21_01c.png" height="150">
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot%202023-11-05%20150855.png" height="150">
@@ -111,9 +121,9 @@ layout: default
 * Unreal Blueprint System
 
 ```
-2013 InnoGames 
 ```
 ## The West - F2P MMORPG - Browser
+2013 InnoGames
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/csm_innogames-gamedetail-the-west-header-visual_mobile_3f8eef9c0e.jpg" height="150">
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/The-West-profile-screenshots-14.jpg" height="150">
@@ -129,9 +139,9 @@ layout: default
 * Design for new features / redesign of  existing ones (like the shop) based on live data
 
 ```
-2013 Ubisoft Bluebyte 
 ```
 ## Think Tank Phase 
+2013 Ubisoft Bluebyte
 
 ###### GD Team Size
 * 4 Game Designers
@@ -142,9 +152,9 @@ layout: default
 * Researching F2P Mobile games
 * Creation of F2P pitches
 ```
-2012 Ubisoft Bluebyte 
 ```
 ## Your Shape Wii U - Sports - Wii U
+2012 Ubisoft Bluebyte
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/81D-wjkiOcL.jpg" height="150">
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/71eWlOHLZIL.jpg" height="150">
@@ -163,9 +173,10 @@ layout: default
 * Dance Workout design
 
 ```
-2011 Ubisoft Bluebyte 
 ```
 ## My Fitness Coach Club - Sports - PS3
+2011 Ubisoft Bluebyte
+
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/myfitnesscoachclub.jpg" height="150">
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/719HMADm8nL._AC_UF1000%2C1000_QL80_.jpg" height="150">
 
