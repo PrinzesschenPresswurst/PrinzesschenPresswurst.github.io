@@ -38,7 +38,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/everdale.png" height="150">
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/everdale.jpg" height="150">
 
-[Check out a community video with me here.](https:/https://www.youtube.com/watch?v=z1i3XfYWcjM)
+[Check out a community video with me here.](https://www.youtube.com/watch?v=z1i3XfYWcjM)
 
 ###### GD Team Size
 * 2 Game Designers
