@@ -155,6 +155,9 @@ layout: default
 2011 Ubisoft Bluebyte 
 ```
 ## My Fitness Coach Club - Sports - PS3
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_logo.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_1.jpg" height="150">
+
 [Check out a video here.](https://www.youtube.com/watch?v=hrlbPo-rxvw)
 
 ###### GD Team Size
