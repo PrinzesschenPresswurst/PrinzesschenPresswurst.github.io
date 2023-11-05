@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[back](./)
 
 ## Experience
 
@@ -167,9 +166,10 @@ layout: default
 * This led me straight to the next project
 
 ```
-2010 - 2011 Ubisoft Bluebyte 
 ```
 ## The Settlers My City - F2P City Builder - Facebook
+2010 - 2011 Ubisoft Bluebyte
+
 [Check out a video here.](https://www.youtube.com/watch?v=zaWDAJouIvg)
 
 ###### GD Team Size
@@ -183,9 +183,13 @@ layout: default
 * Feature design of all features, content design, quest design, balancing, tutorial, UX and so on
 
 ```
-2009 - 2010 Ubisoft Bluebyte
 ```
 ## The Settlers 7 - Strategy - PC
+2009 - 2010 Ubisoft Bluebyte
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/settlers7_box.jpg" height="220">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/settlers7_game.jpg" height="220">
+
 [Check out a video here.](https://www.youtube.com/watch?v=0DYCYby9-zA)
 
 ###### GD Team Size
