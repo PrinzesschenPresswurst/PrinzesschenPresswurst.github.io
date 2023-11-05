@@ -2,17 +2,6 @@
 layout: default
 ---
 
-# Track Record
-* Making games since 2009
-* Creating games from scratch and getting them through the whole development cycle
-* System design / Feature design
-* Player Onboarding / Player Experience / UX / User Testing
-* F2P business models, player retention, monetization
-* Experienced part of leadership teams
-* Unbreakable love for video games and my job
-
-```
-```
 ## Think Tank Phase
 2023 - today Supercell
 
@@ -251,4 +240,19 @@ layout: default
 * This was my first professional project, getting education by the Lead GD and the rest of the team, soaking up all knowledge like a sponge
 * Supporting parts of the tutorial, supporting design aspects of the campaign, supporting AI balancing
 * Working with QA
+
+* * *
+
+```
+Summary
+* Making games since 2009
+* Creating games from scratch and getting them through the whole development cycle
+* System design / Feature design
+* Player Onboarding / Player Experience / UX / User Testing
+* F2P business models, player retention, monetization
+* Experienced part of leadership teams
+* Unbreakable love for video games and my job
+```
+
+
 
