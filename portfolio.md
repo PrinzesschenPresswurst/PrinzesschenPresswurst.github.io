@@ -62,7 +62,8 @@ layout: default
 ```
 ## Lost Survivors - F2P Resource Management - Mobile
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/csm_800x729_4_4300bf1a5c.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/00001.jpg" height="150">
 
 [Check it out on Google Play here.](https://play.google.com/store/apps/details?id=com.innogames.tropicalisland&hl=en&gl=US)
 ###### GD Team Size
@@ -92,7 +93,9 @@ layout: default
 2014 - 2016 InnoGames 
 ```
 ## Gates of Epica - F2P Action RPG - Mobile
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Gates_FrontPic21_01c.png" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot%202023-11-05%20150855.png" height="150">
 
 [Check out a video here.](https://www.youtube.com/watch?v=XQd4-rQCMdI)
 
@@ -111,6 +114,10 @@ layout: default
 2013 InnoGames 
 ```
 ## The West - F2P MMORPG - Browser
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/csm_innogames-gamedetail-the-west-header-visual_mobile_3f8eef9c0e.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/The-West-profile-screenshots-14.jpg" height="150">
+
 [You can still play it here.](https://www.the-west.net/)
 ###### GD Team Size
 * 2 Game Designers
@@ -138,6 +145,10 @@ layout: default
 2012 Ubisoft Bluebyte 
 ```
 ## Your Shape Wii U - Sports - Wii U
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/81D-wjkiOcL.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/71eWlOHLZIL.jpg" height="150">
+
 [Check out a video here.](https://www.youtube.com/watch?v=rB1gzksFAg8)
 
 ###### GD Team Size
@@ -155,8 +166,8 @@ layout: default
 2011 Ubisoft Bluebyte 
 ```
 ## My Fitness Coach Club - Sports - PS3
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_logo.jpg" height="150">
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_1.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/myfitnesscoachclub.jpg" height="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/719HMADm8nL._AC_UF1000%2C1000_QL80_.jpg" height="150">
 
 [Check out a video here.](https://www.youtube.com/watch?v=hrlbPo-rxvw)
 
