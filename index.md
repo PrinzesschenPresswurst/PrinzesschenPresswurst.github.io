@@ -2,12 +2,6 @@
 layout: default
 ---
 
-```
-Portfolio
-```
-
-[View Portfolio here](./portfolio.html).
-
 # Dog Games
 
 The struggles of a game designer trying to understand unity, git and web pages
