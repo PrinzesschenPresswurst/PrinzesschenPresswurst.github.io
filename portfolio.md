@@ -1,17 +1,10 @@
 ---
 layout: default
 ---
-
+# CV
 ## Think Tank Phase
 2023 - today Supercell
 
-###### GD Team Size
-* Small teams
-
-###### Phases
-* Prototyping 
-
-###### Responsibilities
 * Finding a great team 
 * Pitching and Prototyping of new game 
 
@@ -29,7 +22,7 @@ layout: default
 * 5 Game Designers
 
 ###### Phases
-* Getting ready for beta, was a year on that one 
+* Getting ready for beta
 
 ###### Responsibilities
 * Planning and design for Shop, Live Events and Cosmetics  
@@ -52,7 +45,7 @@ layout: default
 * Plan was to complement and help the Lead Designer for launch 
 
 ###### Phases
-* Soft Launch
+* joined during Soft Launch
 
 ###### Responsibilities
 * Helped out with the last 2 updates before the game got killed
@@ -88,9 +81,6 @@ layout: default
 ###### GD Team Size
 * 2 Game Designers
 * Each with their own game pitches
-
-###### Phases
-* Initial phase only
 
 ###### Responsibilities
 * Creation of many pitches
@@ -147,13 +137,10 @@ layout: default
 ###### GD Team Size
 * 4 Game Designers
 
-###### Phases
-* Initial phase only
-* Once the team started Assassin's Creed Identity I changed companies and cities for private reasons
-
 ###### Responsibilities
 * Researching F2P Mobile games
 * Creation of F2P pitches
+* Once the team started Assassin's Creed Identity I changed companies and cities for private reasons
 
 ```
 ```
