@@ -170,6 +170,9 @@ layout: default
 ## The Settlers My City - F2P City Builder - Facebook
 2010 - 2011 Ubisoft Bluebyte
 
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_logo.jpg" height="220">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/mycity_1.jpg" height="220">
+
 [Check out a video here.](https://www.youtube.com/watch?v=zaWDAJouIvg)
 
 ###### GD Team Size
