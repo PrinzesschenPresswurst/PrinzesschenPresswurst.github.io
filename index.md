@@ -4,7 +4,7 @@ layout: default
 
 # Dog Games
 
-The struggles of a game designer trying to understand unity, git and web pages
+Witness the struggles of a game designer trying to understand C#, Unity, Git and Web Pages
 
 ### Dog Game 8
 ```
@@ -51,26 +51,24 @@ Coming Soon: Dog McDogFace meets his worst enemies. For some, this is the weakes
 ### Dog Game 1
 
 ```
-A short dog simulator
+ A VERY SHORT DOG SIMULATOR
 ```
-
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
 
-This is where it all started. Dog McDogFace is on a mission: destruction. 
-But this does not mean he has no time to help his friends. 
+This is where it all started. Dog McDogFace is on a mission: destruction.
+But this does not mean he has no time to help his friends.
 Stay hydrated, collect all sticks and most importantly: pee everywhere.
+
+
 [Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/WebGL_DogGame_1/)
 
-###### COMING SOON
-Dog Game 1 - The Remaster: with better graphics, sound and interface!
 
-### (Web Page Example)
+COMING SOON: Dog Game 1 - The Remaster! 
+More sticks, more pee, more destruction.
 
-```
-Thanks for checking this out
-```
 
-[Link to example page](./example-page.html).
+
+
 
 
 
