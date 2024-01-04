@@ -51,7 +51,14 @@ Dog McDogface will rain bullets down on his enemies.
 ```
 ### Dog Game 6
 ###### Dog Invaders
-Coming Soon: Dog McDogface travels back in time to defend his home from the evil attackers - will this be enough?
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/f2bf53bd9953ea981aa0462df28006d45c25d7ab/assets/img/boxart_GD6.png" width="150">
+
+[Play Dog Game 6 here.](https://prinzesschenpresswurst.github.io/DogGame_6/)
+
+
+Dog McDogface travels back in time to defend his home from the evil attackers.
+They are not stopping - will this be enough?
 
 ```
 ```
