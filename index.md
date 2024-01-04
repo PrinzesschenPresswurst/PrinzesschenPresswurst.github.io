@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Dog Games
+# Dev Blog
 
-Witness the struggles of a game designer trying to understand C#, Unity, Git and Web Pages
+A page dedicated to the struggles of a game designer trying to understand C#, Unity, Git and Web Pages
 
 ```
 ```
@@ -59,7 +59,7 @@ Coming Soon: Dog McDogFace meets his worst enemies. For some, this is the weakes
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
 
-[Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/WebGL_DogGame_1/)
+[Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/DogGame_1/)
 
 This is where it all started. Dog McDogFace is on a mission: destruction.
 But this does not mean he has no time to help his friends.
