@@ -15,11 +15,11 @@ He will never become a real hero and defeat his enemies if not going all in. Thu
 
 Dog Paper Scissors
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_RPS.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_RPS.png" width="300">
 
 Hang-dog
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_Hangman.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_Hangman.png" width="300">
 
 [Download and play here.](https://github.com/PrinzesschenPresswurst/consoleApplications)
 
