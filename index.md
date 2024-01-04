@@ -30,6 +30,7 @@ Hang-dog
 Coming Soon: 
 Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his enemy.
 
+[Play Dog Game 8 here.](https://prinzesschenpresswurst.github.io/DogGame_8/)
 
 ```
 ```
