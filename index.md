@@ -4,7 +4,24 @@ layout: default
 
 # Dev Blog
 
-A page dedicated to the struggles of a game designer trying to understand C#, Unity, Git and Web Pages
+A page dedicated to the struggles of a game designer trying to understand C#, Unity, Git and Web Pages.
+
+```
+```
+### Dog Game Hiatus
+###### A C# Console App
+Dog Mc Dogface knew, after all his adventures, it is time for a break. 
+He will never become a real hero and defeat his enemies if not going all in. Thus he switches gears.
+
+Dog Paper Scissors
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_RPS.png" width="150">
+
+Hang-dog
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_Hangman.png" width="150">
+
+
 
 ```
 ```
