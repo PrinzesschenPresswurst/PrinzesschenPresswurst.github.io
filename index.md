@@ -9,15 +9,15 @@ A page dedicated to the struggles of a game designer trying to understand C#, Un
 ```
 ```
 ### Dog Game Hiatus
-###### A C# Console App
+
 Dog McDogface knew, after all his adventures, it is time for a break. 
 He will never become a real hero and defeat his enemies if not going all in. Thus he switches gears, ditching unity and hopping into the raw console.
 
-Dog Paper Scissors
+###### Dog Paper Scissors
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_RPS.png" width="300">
 
-Hang-dog
+###### Hang-dog
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_Hangman.png" width="300">
 
