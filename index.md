@@ -37,11 +37,15 @@ Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his e
 ```
 ```
 ### Dog Game 7
-###### A Dog on Rails
+###### Save Planet Doge (on rails)
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/c79dd781050af86e25a7ec04d0d72c51b646bebf/assets/img/boxart%20DG7.png" width="150">
+
 
 [Play Dog Game 7 here.](https://prinzesschenpresswurst.github.io/DogGame_7/)
 
-No it wasn't! The second wave of attackers is incoming over a beautiful landscape.
+No it wasn't! The second wave of attackers is incoming over a beautiful landscape. 
+Dog McDogface will rain bullets down on his enemies.
 
 ```
 ```
