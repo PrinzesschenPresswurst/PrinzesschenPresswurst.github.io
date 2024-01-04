@@ -38,7 +38,10 @@ Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his e
 ```
 ### Dog Game 7
 ###### A Dog on Rails
-Coming Soon: No it wasnt! The second wave of attackers is incoming over a beautiful landsacpe.
+
+[Play Dog Game 7 here.](https://prinzesschenpresswurst.github.io/DogGame_7/)
+
+No it wasn't! The second wave of attackers is incoming over a beautiful landscape.
 
 ```
 ```
