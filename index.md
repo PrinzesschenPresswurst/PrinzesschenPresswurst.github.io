@@ -10,8 +10,8 @@ A page dedicated to the struggles of a game designer trying to understand C#, Un
 ```
 ### Dog Game Hiatus
 ###### A C# Console App
-Dog Mc Dogface knew, after all his adventures, it is time for a break. 
-He will never become a real hero and defeat his enemies if not going all in. Thus he switches gears.
+Dog McDogface knew, after all his adventures, it is time for a break. 
+He will never become a real hero and defeat his enemies if not going all in. Thus he switches gears, ditching unity and hopping into the raw console.
 
 Dog Paper Scissors
 
@@ -27,10 +27,12 @@ Hang-dog
 ```
 ### Dog Game 8
 ###### Dog-Vania
-Coming Soon: 
-Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his enemy.
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/b7f598249fd270db5fe6af7cf6a55ca2d6f136d2/assets/img/boxart_DG8.png" width="150">
 
 [Play Dog Game 8 here.](https://prinzesschenpresswurst.github.io/DogGame_8/)
+
+Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his enemy.
 
 ```
 ```
