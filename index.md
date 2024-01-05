@@ -45,7 +45,6 @@ Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his e
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/c79dd781050af86e25a7ec04d0d72c51b646bebf/assets/img/boxart%20DG7.png" width="150">
 
-
 [Play Dog Game 7 here.](https://prinzesschenpresswurst.github.io/DogGame_7/)
 
 No it wasn't! The second wave of attackers is incoming over a beautiful landscape. 
@@ -60,7 +59,6 @@ Dog McDogface will rain bullets down on his enemies.
 
 [Play Dog Game 6 here.](https://prinzesschenpresswurst.github.io/DogGame_6/)
 
-
 Dog McDogface travels back in time to defend his home from the evil attackers.
 They are not stopping - will this be enough?
 
@@ -68,6 +66,11 @@ They are not stopping - will this be enough?
 ```
 ### Dog Game 5
 ###### The Ultimate Test
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/61394636cf1c25019069b75b189c7564255a0449/assets/img/boxart_DG5.png" width="150">
+
+[Play Dog Game 5 here.](https://prinzesschenpresswurst.github.io/DogGame_5/)
+
 Coming Soon: Do you have all the knowledge about Dog McDogFace`s adventures?
 
 ```
