@@ -82,7 +82,7 @@ Do you have all the knowledge about Dog McDogFace`s adventures? Test your skill 
 
 [Play Dog Game 4 here.](https://prinzesschenpresswurst.github.io/DogGame_4/)
 
-A flashback to the past when McDogFace was an astronaut - did he bring all the enemies back from space???
+A flashback to the past when McDogFace was an astronaut - a dark secret starts to take shape: did he bring all the enemies back from space???
 
 ```
 ```
@@ -100,11 +100,13 @@ Will you help him uncover the spectacular secret level?
 ```
 ### Dog Game 2
 ###### Nightmare on Dog Street
-Dog McDogFace meets his worst enemies. For some, this is the weakest installment of the series. For McDogFace this is the fight for justice.
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/3289ffe13d2a05861041356bb48d83fbba52a35d/assets/img/boxart_DG2.png" width="150">
 
 [Play Dog Game 2 here.](https://prinzesschenpresswurst.github.io/DogGame_2/)
+
+Dog McDogFace meets his worst enemies. For some, this is the weakest installment of the series. For McDogFace this is the fight for justice.
+
 
 ```
 ```
