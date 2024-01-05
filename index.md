@@ -71,13 +71,18 @@ They are not stopping - will this be enough?
 
 [Play Dog Game 5 here.](https://prinzesschenpresswurst.github.io/DogGame_5/)
 
-Coming Soon: Do you have all the knowledge about Dog McDogFace`s adventures?
+Do you have all the knowledge about Dog McDogFace`s adventures? Test your skill now!
 
 ```
 ```
 ### Dog Game 4
-###### A Dog in Space
-Coming Soon: A flashback to the past when McDogFace was an astronaut - did he bring all the enemies back from space???
+###### Space Dog
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/a6ce37592bf18eb2b4abc1a8a93b4bfdcc0c2223/assets/img/boxart_DG4.png" width="150">
+
+[Play Dog Game 4 here.](https://prinzesschenpresswurst.github.io/DogGame_4/)
+
+A flashback to the past when McDogFace was an astronaut - did he bring all the enemies back from space???
 
 ```
 ```
