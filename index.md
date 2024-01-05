@@ -32,7 +32,7 @@ He will never become a real hero and defeat his enemies if not going all in. Thu
 ### Dog Game 8
 ###### Dog-Vania
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/b7f598249fd270db5fe6af7cf6a55ca2d6f136d2/assets/img/boxart_DG8.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/b7f598249fd270db5fe6af7cf6a55ca2d6f136d2/assets/img/boxart_DG8.png" width="250">
 
 [Play Dog Game 8 here.](https://prinzesschenpresswurst.github.io/DogGame_8/)
 
@@ -43,7 +43,7 @@ Its time for Dog McDogface to dive deep into the riddle-filled dungeons of his e
 ### Dog Game 7
 ###### Save Planet Doge (on rails)
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/c79dd781050af86e25a7ec04d0d72c51b646bebf/assets/img/boxart%20DG7.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/c79dd781050af86e25a7ec04d0d72c51b646bebf/assets/img/boxart%20DG7.png" width="250">
 
 [Play Dog Game 7 here.](https://prinzesschenpresswurst.github.io/DogGame_7/)
 
@@ -55,7 +55,7 @@ Dog McDogface will rain bullets down on his enemies.
 ### Dog Game 6
 ###### Dog Invaders
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/f2bf53bd9953ea981aa0462df28006d45c25d7ab/assets/img/boxart_GD6.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/f2bf53bd9953ea981aa0462df28006d45c25d7ab/assets/img/boxart_GD6.png" width="250">
 
 [Play Dog Game 6 here.](https://prinzesschenpresswurst.github.io/DogGame_6/)
 
@@ -67,7 +67,7 @@ They are not stopping - will this be enough?
 ### Dog Game 5
 ###### The Ultimate Test
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/61394636cf1c25019069b75b189c7564255a0449/assets/img/boxart_DG5.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/61394636cf1c25019069b75b189c7564255a0449/assets/img/boxart_DG5.png" width="250">
 
 [Play Dog Game 5 here.](https://prinzesschenpresswurst.github.io/DogGame_5/)
 
@@ -78,7 +78,7 @@ Do you have all the knowledge about Dog McDogFace`s adventures? Test your skill 
 ### Dog Game 4
 ###### Space Dog
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/a6ce37592bf18eb2b4abc1a8a93b4bfdcc0c2223/assets/img/boxart_DG4.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/a6ce37592bf18eb2b4abc1a8a93b4bfdcc0c2223/assets/img/boxart_DG4.png" width="250">
 
 [Play Dog Game 4 here.](https://prinzesschenpresswurst.github.io/DogGame_4/)
 
@@ -89,7 +89,7 @@ A flashback to the past when McDogFace was an astronaut - a dark secret starts t
 ### Dog Game 3
 ###### Dog McDogFace's Pro Skater
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/872543e064c53393c846258f95bd0ff93a08cdff/assets/img/boxart%20DG3.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/872543e064c53393c846258f95bd0ff93a08cdff/assets/img/boxart%20DG3.png" width="250">
 
 [Play Dog Game 3 here.](https://prinzesschenpresswurst.github.io/DogGame_3/)
 
@@ -101,7 +101,7 @@ Will you help him uncover the spectacular secret level?
 ### Dog Game 2
 ###### Nightmare on Dog Street
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/3289ffe13d2a05861041356bb48d83fbba52a35d/assets/img/boxart_DG2.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/3289ffe13d2a05861041356bb48d83fbba52a35d/assets/img/boxart_DG2.png" width="250">
 
 [Play Dog Game 2 here.](https://prinzesschenpresswurst.github.io/DogGame_2/)
 
@@ -113,7 +113,7 @@ Dog McDogFace meets his worst enemies. For some, this is the weakest installment
 ### Dog Game 1
 ###### A very short dog simulator
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="150">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/dog_game_1_preview.png" width="250">
 
 [Play Dog Game 1 here.](https://prinzesschenpresswurst.github.io/DogGame_1/)
 
