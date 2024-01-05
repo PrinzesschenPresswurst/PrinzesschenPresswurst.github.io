@@ -21,6 +21,10 @@ He will never become a real hero and defeat his enemies if not going all in. Thu
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_Hangman.png" width="300">
 
+###### Tic Tac Woof
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/a74987e78c0ff97162a7a3b146c834021d299eac/assets/img/Screenshot_TTT.png" width="300">
+
 [Download and play here.](https://github.com/PrinzesschenPresswurst/consoleApplications)
 
 ```
