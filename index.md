@@ -99,9 +99,12 @@ Will you help him uncover the spectacular secret level?
 ```
 ```
 ### Dog Game 2
-###### A dog's nightmare
-Coming Soon: Dog McDogFace meets his worst enemies. For some, this is the weakest installment of the series. For McDogFace this is the fight for justice.
+###### Nightmare on Dog Street
+Dog McDogFace meets his worst enemies. For some, this is the weakest installment of the series. For McDogFace this is the fight for justice.
 
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/3289ffe13d2a05861041356bb48d83fbba52a35d/assets/img/boxart_DG2.png" width="150">
+
+[Play Dog Game 2 here.](https://prinzesschenpresswurst.github.io/DogGame_2/)
 
 ```
 ```
@@ -118,6 +121,18 @@ Stay hydrated, collect all sticks and most importantly: pee everywhere.
 
 COMING SOON: Dog Game 1 - The Remaster! 
 More sticks, more pee, more destruction.
+
+```
+```
+###### Credits
+Going through the long road to become a self-taught developer.
+Credits and love to the people making awesome online learning material helping folks like me grow.
+Special thanks to:
+
+* Unity learning platform
+* Game Dev TV Complete C# Unity Game Developer 2D and 3D 
+* RB Whitaker's C# player's guide
+* The Ultimate Guide to Game Development with Unity
 
 
 
