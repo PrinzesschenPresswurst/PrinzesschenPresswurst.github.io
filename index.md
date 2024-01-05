@@ -87,9 +87,14 @@ A flashback to the past when McDogFace was an astronaut - did he bring all the e
 ```
 ```
 ### Dog Game 3
-###### Run dog Run!
-Coming Soon: Dog McDogFace manages to escape the evil and needs to run for his life
+###### Dog McDogFace's Pro Skater
 
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/872543e064c53393c846258f95bd0ff93a08cdff/assets/img/boxart%20DG3.png" width="150">
+
+[Play Dog Game 3 here.](https://prinzesschenpresswurst.github.io/DogGame_3/)
+
+Dog McDogFace manages to escape the evil and needs to run for his life. 
+Will you help him uncover the spectacular secret level?
 
 ```
 ```
