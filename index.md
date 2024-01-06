@@ -25,6 +25,10 @@ He will never become a real hero and defeat his enemies if not going all in. Thu
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/a74987e78c0ff97162a7a3b146c834021d299eac/assets/img/Screenshot_TTT.png" width="300">
 
+###### A howling difficult "move the numbers" puzzle
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/8a9cbba9b120d0fe5985ec0faf46bcb2c43765e8/assets/img/puzzle.png" width="300">
+
 [Download and play here.](https://github.com/PrinzesschenPresswurst/consoleApplications)
 
 ```
