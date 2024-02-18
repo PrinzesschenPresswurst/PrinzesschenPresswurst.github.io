@@ -13,6 +13,10 @@ A page dedicated to the struggles of a game designer trying to understand C#, Un
 Dog McDogface knew, after all his adventures, it is time for a break. 
 He will never become a real hero and defeat his enemies if not going all in. Thus he switches gears, ditching unity and hopping into the raw console.
 
+###### A textbased Dog Adventure
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/7deda6da0eb1fe4e334e6005877855ee178f1a3e/assets/img/fountain.png" width="300">
+
 ###### Dog Paper Scissors
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/main/assets/img/Screenshot_RPS.png" width="300">
@@ -29,7 +33,7 @@ He will never become a real hero and defeat his enemies if not going all in. Thu
 
 <img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/8a9cbba9b120d0fe5985ec0faf46bcb2c43765e8/assets/img/puzzle.png" width="300">
 
-[Download and play here.](https://github.com/PrinzesschenPresswurst/consoleApplications)
+[Download and play all of them here.](https://github.com/PrinzesschenPresswurst/consoleApplications)
 
 ```
 ```
