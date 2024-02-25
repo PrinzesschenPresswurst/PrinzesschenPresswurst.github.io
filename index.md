@@ -15,7 +15,7 @@ He will never become a real hero and defeat his enemies if not going all in. Thu
 
 ###### A textbased Dog Adventure
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/7deda6da0eb1fe4e334e6005877855ee178f1a3e/assets/img/fountain.png" width="300">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/c0dd0229e0e5af07920f2e72e24e632f92f681b1/assets/img/cave.gif" width="300">
 
 ###### Dog Paper Scissors
 
