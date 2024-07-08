@@ -9,10 +9,12 @@ A page dedicated to the struggles of a game designer trying to understand C#, Un
 ```
 ```
 ### Cat Games
+Thanks to the efforts of DogMcDogface, Cat Games can now take place. No tutorials, no handholding, just making games.
 ###### Cat Memory
-The Sheriff's first adventure. No handholding, just Memory.
-
+The Sheriff's first adventure. A thrilling mind-game. Can the high score be broken?
 [Play Cat Memory here.](https://prinzesschenpresswurst.github.io/CatGame_Memory/)
+
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/64cf2baaf7e23bd72225c81bd3e2b58b04598c08/assets/img/Screenshot%202024-07-08%20172044.png" width="300">
 
 ```
 ```
