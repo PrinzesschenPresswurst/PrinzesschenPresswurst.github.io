@@ -11,13 +11,16 @@ A page dedicated to the struggles of a game designer trying to understand C#, Un
 ### Cat Games
 Thanks to the efforts of DogMcDogface, Cat Games can now take place. No tutorials, no handholding, just making games.
 
+
 ###### Cat Sweeper
-A highly explosive adventure. Made for android - download apk. 
+A highly explosive adventure. Made for android.
 
 [Play Cat Sweeper here.](https://prinzesschenpresswurst.github.io/CatGame_Minesweeper/)
 
-<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/64cf2baaf7e23bd72225c81bd3e2b58b04598c08/assets/img/Screenshot%202024-07-08%20172044.png" width="300">
+<img src="https://raw.githubusercontent.com/PrinzesschenPresswurst/PrinzesschenPresswurst.github.io/ba70094e9f316f17beb21fa2b32a6d3fee2b840a/assets/img/catsweeper.png" width="200">
 
+```
+```
 
 ###### Cat Memory
 The Sheriff's first adventure. A thrilling mind-game. Can the high score be broken?
